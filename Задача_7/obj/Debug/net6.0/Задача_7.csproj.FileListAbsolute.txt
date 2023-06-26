@@ -1,0 +1,5 @@
+C:\Users\MaryV\OneDrive\Рабочий стол\Практика C# 21.06\Задача_7\obj\Debug\net6.0\Задача_7.csproj.AssemblyReference.cache
+C:\Users\MaryV\OneDrive\Рабочий стол\Практика C# 21.06\Задача_7\obj\Debug\net6.0\Задача_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaryV\OneDrive\Рабочий стол\Практика C# 21.06\Задача_7\obj\Debug\net6.0\Задача_7.AssemblyInfoInputs.cache
+C:\Users\MaryV\OneDrive\Рабочий стол\Практика C# 21.06\Задача_7\obj\Debug\net6.0\Задача_7.AssemblyInfo.cs
+C:\Users\MaryV\OneDrive\Рабочий стол\Практика C# 21.06\Задача_7\obj\Debug\net6.0\Задача_7.csproj.CoreCompileInputs.cache
