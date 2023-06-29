@@ -1,0 +1,12 @@
+﻿Console.Clear();
+Console.WriteLine("Введите координату x1");
+int x1 = int.Parse(Console.ReadLine());
+Console.WriteLine("Введите координату x2");
+int x2 = int.Parse(Console.ReadLine());
+Console.WriteLine("Введите координату y1");
+int y1 = int.Parse(Console.ReadLine());
+Console.WriteLine("Введите координату y2");
+int y2 = int.Parse(Console.ReadLine());
+double result = ((x1-x2)*(x1-x2) + (y1-y2)*(y1-y2));
+double s = Math.Sqrt(result);
+Console.WriteLine(s);
