@@ -6,8 +6,7 @@
 // 782 -> 72
 
 // 918 -> 98
-int num = new.Random().Next(100, 1000);
-int num = num/ 100;
-int num = num % 10;
-Console.WriteLine($"Задуманное число {num}");
-Console.WriteLine($"Вывели число {num1}-{num2}");
+int num = new Random().Next(100, 1000);
+int result  = (num / 100) * 10 + num % 10;
+Console.WriteLine($" {num} ->{result} ->{num/10%10}"); // два метода решения
+Console.WriteLine($"{num} ->{num/100}{num%10}");

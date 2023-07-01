@@ -13,13 +13,13 @@
 // 161 ->  да
 
 Console.Clear();
-Console.Write("Введите число 1 -> ");
-int num1 = Convert.ToInt32(Console.ReadLine());
-if ((num1%7 == 0)&&(num1%23 == 0))
+Console.Write("Введите число  -> ");
+int num = Convert.ToInt32(Console.ReadLine());
+if ((num%7 == 0)&&(num%23 == 0))
 {
-    Console.Write($"Наше число {num1} кратно 7 и 23");
+    Console.Write($"Наше число {num%7 == 0} ->num%23=={num%23 == 0}");
 }
 else
 {
-    Console.Write($"Наше число {num1} не кратно 7 и 23");
+    Console.Write($"Наше число {num%7 == 0} ->num%23=={num%23 == 0}");
 }

@@ -3,3 +3,13 @@ C:\Users\MaryV\OneDrive\Рабочий стол\Практика C# 21.06\Зад
 C:\Users\MaryV\OneDrive\Рабочий стол\Практика C# 21.06\Задача_7\obj\Debug\net6.0\Задача_7.AssemblyInfoInputs.cache
 C:\Users\MaryV\OneDrive\Рабочий стол\Практика C# 21.06\Задача_7\obj\Debug\net6.0\Задача_7.AssemblyInfo.cs
 C:\Users\MaryV\OneDrive\Рабочий стол\Практика C# 21.06\Задача_7\obj\Debug\net6.0\Задача_7.csproj.CoreCompileInputs.cache
+C:\Users\MaryV\OneDrive\Рабочий стол\Практика C# 21.06\Задача_7\bin\Debug\net6.0\Задача_7.exe
+C:\Users\MaryV\OneDrive\Рабочий стол\Практика C# 21.06\Задача_7\bin\Debug\net6.0\Задача_7.deps.json
+C:\Users\MaryV\OneDrive\Рабочий стол\Практика C# 21.06\Задача_7\bin\Debug\net6.0\Задача_7.runtimeconfig.json
+C:\Users\MaryV\OneDrive\Рабочий стол\Практика C# 21.06\Задача_7\bin\Debug\net6.0\Задача_7.dll
+C:\Users\MaryV\OneDrive\Рабочий стол\Практика C# 21.06\Задача_7\bin\Debug\net6.0\Задача_7.pdb
+C:\Users\MaryV\OneDrive\Рабочий стол\Практика C# 21.06\Задача_7\obj\Debug\net6.0\Задача_7.dll
+C:\Users\MaryV\OneDrive\Рабочий стол\Практика C# 21.06\Задача_7\obj\Debug\net6.0\refint\Задача_7.dll
+C:\Users\MaryV\OneDrive\Рабочий стол\Практика C# 21.06\Задача_7\obj\Debug\net6.0\Задача_7.pdb
+C:\Users\MaryV\OneDrive\Рабочий стол\Практика C# 21.06\Задача_7\obj\Debug\net6.0\Задача_7.genruntimeconfig.cache
+C:\Users\MaryV\OneDrive\Рабочий стол\Практика C# 21.06\Задача_7\obj\Debug\net6.0\ref\Задача_7.dll

@@ -1,4 +1,7 @@
-﻿Console.Clear();
+﻿//Напишите программу,которая принимает на вход число (N),
+// и выдает таблицу квадратов от 1 до N.
+
+Console.Clear();
 Console.WriteLine("Введите n ");
 int n = int.Parse(Console.ReadLine());
 int i = 1;
